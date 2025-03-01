@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="intellij-plugins-jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JsonToKotlinClass-3.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kotlin-auto-fill-1.0.7-v2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
